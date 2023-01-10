@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\bin\Debug\BudgetTracker.exe.config
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\bin\Debug\BudgetTracker.exe
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\bin\Debug\BudgetTracker.pdb
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\App.g.cs
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker_MarkupCompile.cache
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker_MarkupCompile.lref
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\MainWindow.baml
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.g.resources
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.Properties.Resources.resources
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.exe
+C:\Users\lenovo\source\repos\newbudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.pdb
